@@ -1,0 +1,26 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+.target/
+**/target/
+
+# Gradle
+.gradle/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Logs
+logs/
+*.log
+*.out
+
+# Other
+*.swp
